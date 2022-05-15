@@ -1,0 +1,3 @@
+*  Description
+
+  Studying methods to think visually in emacs
